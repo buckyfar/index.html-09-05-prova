@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prova</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h>Prova de Pensamento Computacional</h>
+</header>
+<h1>Conteúdo:</h1>
+<h2>html e css</h2>
+<h3>Integrante:Alysson Ribeiro</h3>
+<footer>Colégio Estadual Quatro Pontes</footer>
+
+</body>
+</html>
